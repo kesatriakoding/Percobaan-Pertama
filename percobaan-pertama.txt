@@ -1,0 +1,7 @@
+percobaan
+- aktif mengunakan react js 
+- mendalamai ilmu front end
+  - html
+  - css
+  - javascript
+  
